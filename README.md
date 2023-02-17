@@ -39,4 +39,4 @@ Se pretende elaborar un vehiculo que busque sembrar semillas a su paso, controla
 |3|Quiero que el vehiculo sea funcional y responda a todos los comandos que le indique |Media | 3 semanas | Verificando que todos los componentes sean ensamblados correctamente y verificando el codigo compilado | Karla Diaz Moya |
 |4|Quiero poder tener registro del trayecto del vehiculo asi como las zonas donde haya arrojadosemillas |Baja|3 semanas|Con la ayuda de Arduino IDE |Fernando Avizu y Juan Antonio Dominguez Rosales|
 ## Prototipo en dibujo
-![Aspose Words c0a6ef2d-04fd-41d4-a1ce-ebc52d1e014c 006](https://user-images.githubusercontent.com/107650526/217642875-0c6262e4-34b8-4484-9b81-5453716464c.jpeg)
+![Aspose Words c0a6ef2d-04fd-41d4-a1ce-ebc52d1e014c006](https://user-images.githubusercontent.com/107650526/217642875-0c6262e4-34b8-4484-9b81-5453716464c.jpeg)
